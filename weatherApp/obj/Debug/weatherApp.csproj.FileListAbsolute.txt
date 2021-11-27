@@ -1,0 +1,13 @@
+C:\Users\kentu\source\repos\weatherApp\weatherApp\bin\Debug\weatherApp.exe.config
+C:\Users\kentu\source\repos\weatherApp\weatherApp\bin\Debug\weatherApp.exe
+C:\Users\kentu\source\repos\weatherApp\weatherApp\bin\Debug\weatherApp.pdb
+C:\Users\kentu\source\repos\weatherApp\weatherApp\obj\Debug\weatherApp.primary.resources
+C:\Users\kentu\source\repos\weatherApp\weatherApp\obj\Debug\weatherApp.Properties.Resources.resources
+C:\Users\kentu\source\repos\weatherApp\weatherApp\obj\Debug\weatherApp.csproj.GenerateResource.cache
+C:\Users\kentu\source\repos\weatherApp\weatherApp\obj\Debug\weatherApp.csproj.CoreCompileInputs.cache
+C:\Users\kentu\source\repos\weatherApp\weatherApp\obj\Debug\weatherApp.exe
+C:\Users\kentu\source\repos\weatherApp\weatherApp\obj\Debug\weatherApp.pdb
+C:\Users\kentu\source\repos\weatherApp\weatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kentu\source\repos\weatherApp\weatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kentu\source\repos\weatherApp\weatherApp\obj\Debug\weatherApp.csproj.CopyComplete
+C:\Users\kentu\source\repos\weatherApp\weatherApp\obj\Debug\weatherApp.csproj.AssemblyReference.cache
